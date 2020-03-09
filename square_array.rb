@@ -9,4 +9,3 @@ end
 end
 numbers = [2, 4, 6]
 square_array(numbers)
-
